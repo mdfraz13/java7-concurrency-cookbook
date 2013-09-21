@@ -13,4 +13,5 @@ public class TCNumberUtils {
     public static final int INT_ONE = 1;
     
     public static final long LONG_ONE = 1L;
+    public static final long LONG_ONE_HUNDRED = 100L;
 }
