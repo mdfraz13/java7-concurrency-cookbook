@@ -5,7 +5,7 @@ package ro.tatacalu.java7concurrency.ch01;
 
 import java.io.File;
 
-import ro.tatacalu.java7concurrency.ch01.util.TCNumberUtils;
+import ro.tatacalu.java7concurrency.util.TCNumberUtils;
 
 /**
  * @author Matei

@@ -6,7 +6,7 @@ package ro.tatacalu.java7concurrency.ch01;
 import java.util.Date;
 import java.util.concurrent.TimeUnit;
 
-import ro.tatacalu.java7concurrency.ch01.util.TCNumberUtils;
+import ro.tatacalu.java7concurrency.util.TCNumberUtils;
 
 /**
  * @author Matei

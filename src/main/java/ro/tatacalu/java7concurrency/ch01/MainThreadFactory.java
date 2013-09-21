@@ -3,7 +3,7 @@
  */
 package ro.tatacalu.java7concurrency.ch01;
 
-import ro.tatacalu.java7concurrency.ch01.util.TCNumberUtils;
+import ro.tatacalu.java7concurrency.util.TCNumberUtils;
 
 /**
  * @author Matei

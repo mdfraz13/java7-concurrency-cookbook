@@ -1,7 +1,7 @@
 /**
  * 
  */
-package ro.tatacalu.java7concurrency.ch01.util;
+package ro.tatacalu.java7concurrency.util;
 
 /**
  * @author Matei

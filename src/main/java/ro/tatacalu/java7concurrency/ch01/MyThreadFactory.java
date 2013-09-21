@@ -9,8 +9,8 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.concurrent.ThreadFactory;
 
-import ro.tatacalu.java7concurrency.ch01.util.TCNumberUtils;
-import ro.tatacalu.java7concurrency.ch01.util.TCStringUtils;
+import ro.tatacalu.java7concurrency.util.TCNumberUtils;
+import ro.tatacalu.java7concurrency.util.TCStringUtils;
 
 /**
  * @author Matei
