@@ -7,3 +7,4 @@ This repository contains code from the book "Java 7 Concurrency Cookbook".
 
 ## ro.tatacalu.java7concurrency.ch02 - CHAPTER 2 ##
 - ro.tatacalu.java7concurrency.ch02.recipe01: Synchronizing a method
+- ro.tatacalu.java7concurrency.ch02.recipe02: Arranging independent attributes in synchronized classes
