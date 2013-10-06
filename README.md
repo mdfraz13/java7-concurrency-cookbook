@@ -11,3 +11,5 @@ This repository contains code from the book "Java 7 Concurrency Cookbook".
 - ro.tatacalu.java7concurrency.ch02.recipe03: Using conditions in synchronized code
 - ro.tatacalu.java7concurrency.ch02.recipe04: Synchronizing a block of code with a Lock
 - ro.tatacalu.java7concurrency.ch02.recipe05: Synchronizing data access with read/write locks
+- ro.tatacalu.java7concurrency.ch02.recipe06: Modifying Lock fairness
+- 
