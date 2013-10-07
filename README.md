@@ -16,3 +16,4 @@ This repository contains code from the book "Java 7 Concurrency Cookbook".
 
 ## ro.tatacalu.java7concurrency.ch03 - CHAPTER 3 ##
 - ro.tatacalu.java7concurrency.ch03.recipe01: Controlling concurrent access to a resource - binary semaphore
+- ro.tatacalu.java7concurrency.ch03.recipe02: Controlling concurrent access to multiple copies of a resource - counting semaphore
