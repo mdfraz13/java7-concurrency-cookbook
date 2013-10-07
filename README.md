@@ -13,3 +13,6 @@ This repository contains code from the book "Java 7 Concurrency Cookbook".
 - ro.tatacalu.java7concurrency.ch02.recipe05: Synchronizing data access with read/write locks
 - ro.tatacalu.java7concurrency.ch02.recipe06: Modifying Lock fairness
 - ro.tatacalu.java7concurrency.ch02.recipe07: Using multiple conditions in a Lock
+
+## ro.tatacalu.java7concurrency.ch03 - CHAPTER 3 ##
+- ro.tatacalu.java7concurrency.ch03.recipe01: Controlling concurrent access to a resource - binary semaphore
