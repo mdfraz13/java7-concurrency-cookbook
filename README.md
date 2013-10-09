@@ -21,3 +21,4 @@ This repository contains code from the book "Java 7 Concurrency Cookbook".
 - ro.tatacalu.java7concurrency.ch03.recipe04: Synchronizing tasks in a common point - CyclicBarrier; Divide and Conquer
 - ro.tatacalu.java7concurrency.ch03.recipe05: Running concurrent phased tasks - Phaser
 - ro.tatacalu.java7concurrency.ch03.recipe06: Controlling phase change in concurrent phased tasks - extending Phaser
+- ro.tatacalu.java7concurrency.ch03.recipe07: Changing data between concurrent tasks - Exchanger
