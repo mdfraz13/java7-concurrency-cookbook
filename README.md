@@ -25,3 +25,4 @@ This repository contains code from the book "Java 7 Concurrency Cookbook".
 
 ## ro.tatacalu.java7concurrency.ch04 - CHAPTER 4 - Thread Executors ##
 - ro.tatacalu.java7concurrency.ch03.recipe01: Creating a thread executor - ThreadPoolExecutor
+- ro.tatacalu.java7concurrency.ch03.recipe02: Creating a fixed-size thread executor
