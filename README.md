@@ -32,3 +32,4 @@ This repository contains code from the book "Java 7 Concurrency Cookbook".
 - ro.tatacalu.java7concurrency.ch04.recipe06: Running a task in an executor after a delay
 - ro.tatacalu.java7concurrency.ch04.recipe07: Running a task in an executor periodically
 - ro.tatacalu.java7concurrency.ch04.recipe08: Canceling a task in an executor
+- ro.tatacalu.java7concurrency.ch04.recipe09: Controlling a task finishing in an executor
