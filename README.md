@@ -33,3 +33,4 @@ This repository contains code from the book "Java 7 Concurrency Cookbook".
 - ro.tatacalu.java7concurrency.ch04.recipe07: Running a task in an executor periodically
 - ro.tatacalu.java7concurrency.ch04.recipe08: Canceling a task in an executor
 - ro.tatacalu.java7concurrency.ch04.recipe09: Controlling a task finishing in an executor
+- ro.tatacalu.java7concurrency.ch04.recipe10: Separating the launching of tasks and the processing of their results in an executor - CompletionService
