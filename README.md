@@ -27,3 +27,4 @@ This repository contains code from the book "Java 7 Concurrency Cookbook".
 - ro.tatacalu.java7concurrency.ch04.recipe01: Creating a thread executor - ThreadPoolExecutor
 - ro.tatacalu.java7concurrency.ch04.recipe02: Creating a fixed-size thread executor
 - ro.tatacalu.java7concurrency.ch04.recipe03: Executing tasks in an executor that returns a result - Callable, Future
+- ro.tatacalu.java7concurrency.ch04.recipe04: Running multiple tasks and processing the first result
