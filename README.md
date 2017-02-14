@@ -834,5 +834,7 @@ There's a lot more advanced stuff in here that I will not take notes on
 
 Controlling groups of tasks with ExecutorCompletionService
 The fork-join framework, allowing RecursiveTask<T>,\
-Synchronizers --- pre-implemented patterns for common multithread synchronization patterns, e.g. Exchanger, CyclicBarrier (neural nets?), and Semaphore
+Synchronizers 
+
+pre-implemented patterns for common multithread synchronization patterns, e.g. Exchanger, CyclicBarrier (neural nets?), and Semaphore
 
